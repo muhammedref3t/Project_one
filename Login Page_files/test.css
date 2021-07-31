@@ -1,0 +1,120 @@
+body
+{
+    background: #D1D2D6;
+    font-family: Tahoma;
+    margin: 0px;
+    height: 700px
+}
+.left
+{
+    text-align:left;
+    padding: 5px;
+    font-size: 50px;
+    color: #FFFFFF;
+    display: block;
+    background: #15171C;
+    margin: 0px ;
+    text-transform: capitalize;
+    font-weight: bold;
+    padding: 25px
+}
+.center
+{
+    text-align: center;
+    font-size: 40px;
+    color: #FFFFFF;
+    display: block;
+     background: #1F2630;
+     margin: 0px;
+     text-transform: capitalize;
+    font-weight: bold;
+    padding: 17px   
+}
+.form
+{
+  position: absolute;
+  top: 60%;
+  left: 40%;
+  width: 400px;
+  height: 250px;
+  background: #F9F9F9;
+  text-align: center;
+  border: solid 1px #F4E758;
+  border-radius: 20px   
+}
+.username
+{
+    margin: 15px;
+    padding: 12px;
+    border: solid 2px #F4E758;
+    outline: none;
+    border-radius: 20px;
+    width: 200px
+}
+.password
+{
+     margin: 15px;
+    padding: 12px;
+    border: solid 2px #F4E758;
+    outline: none;
+    border-radius: 20px;
+    width: 200px;
+}
+.lol
+{
+   margin: 15px auto;
+    padding: 12px;
+    border: solid 2px #F4E758;
+    outline: none;
+    border-radius: 20px;
+    width: 150px;
+    display: block;
+    color: black;
+    cursor: pointer;
+    
+}
+.username:focus
+{
+    margin: 15px;
+    padding: 12px;
+    border: solid 2px #616300;
+    outline: none;
+    border-radius: 20px;
+    width: 300px
+}
+.password:focus
+{
+     margin: 15px;
+    padding: 12px;
+    border: solid 2px #616300;
+    outline: none;
+    border-radius: 20px;
+    width: 300px;
+}
+.lol:hover
+{
+   margin: 15px auto;
+    padding: 12px;
+    border: solid 2px #F4E758;
+    outline: none;
+    border-radius: 20px;
+    width: 220px;
+    display: block;
+    color: #F4E758;
+    cursor: pointer;
+    background: black
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

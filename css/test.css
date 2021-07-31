@@ -1,0 +1,130 @@
+body
+{
+    background: #474E6B;
+    font-family:Tahoma;
+    margin: 0px;
+    height: 600px;
+    
+}
+.left
+{
+    text-align:left;
+    padding: 5px;
+    font-size: 50px;
+    color: #FFFFFF;
+    display: block;
+    background: #15171C;
+    margin: 0px ;
+    text-transform: capitalize;
+    font-weight: bold;
+    padding: 25px;
+   
+}
+.center
+{
+    text-align: center;
+    font-size: 40px;
+    color: #FFFFFF;
+    display: block;
+     background: #1F2630;
+     margin: 0px;
+     text-transform: capitalize;
+    font-weight: bold;
+    padding: 17px  ;
+
+}
+.form
+{
+  position: absolute;
+  top: 50%;
+  left: 35%;
+  width: 400px;
+  height: 250px;
+  background: white;
+  text-align: center;
+  border: solid 1px #F4E758;
+  border-radius: 25px;
+  transition: all 0.8s
+}
+.username
+{
+    margin: 15px;
+    padding: 12px;
+    border: solid 2px #F4E758;
+    outline: none;
+    border-radius: 20px;
+    width: 200px;
+    transition: 1.0s
+}
+.password
+{
+     margin: 15px;
+    padding: 12px;
+    border: solid 2px #F4E758;
+    outline: none;
+    border-radius: 20px;
+    width: 200px;
+    transition: all 1.0s
+}
+.lol
+{
+   margin: 15px auto;
+    padding: 12px;
+    border: solid 2px #F4E758;
+    outline: none;
+    border-radius: 20px;
+    width: 150px;
+    display: block;
+    color: black;
+    cursor: pointer;
+    font-size: 20px;
+    background: #F9F9F9;
+    transition: all 1.0s
+}
+.username:focus
+{
+    margin: 15px;
+    padding: 12px;
+    border: solid 2px #1F2630;
+    outline: none;
+    border-radius: 20px;
+    width: 300px
+}
+.password:focus
+{
+     margin: 15px;
+    padding: 12px;
+    border: solid 2px #1F2630;
+    outline: none;
+    border-radius: 20px;
+    width: 300px;
+}
+.lol:hover
+{
+   margin: 15px auto;
+    padding: 12px;
+    border: solid 2px #F4E758;
+    outline: none;
+    border-radius: 20px;
+    width: 220px;
+    display: block;
+    color: #F4E758;
+    cursor: pointer;
+    background: #474E6B;
+    font-size: 25px;
+    font-weight: bold 
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
